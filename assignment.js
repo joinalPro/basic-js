@@ -47,3 +47,7 @@ function budgetCalculator (gori, phone, laptop){
 }
 var result = budgetCalculator(50, 100, 500);
 console.log(result);
+
+
+
+//end
